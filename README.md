@@ -13,6 +13,9 @@ My primary goal in this project was to practice and gain important experience re
 - I finished off my changes by adding comments to both the HTML page and the Stylesheet making everything easier read as well as making elements easier to find in the files. This will also help anyone who would like to work on this project in the future.
 
 ## Demo
+View the website at the link below:
+
+https://blaketrester.github.io/Week-1-Challenge/
 
 <img src="./assets/images/01-html-css-git-homework-demo.png">
 
